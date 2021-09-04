@@ -27,10 +27,8 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-## Usage
-
-![](assets/images/hw1sc1.png)
 
 ## The following image shows the web application's appearance and functionality:
 
+![](assets/images/hw1sc1.png)
 
