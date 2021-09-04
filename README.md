@@ -11,6 +11,8 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
+![](assets/images/hw1sc1.png)
+
 ## Acceptance Criteria
 
 ```
@@ -26,7 +28,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-### Usage
+## Usage
 
 * Below is detail information on the changes made to refactor the webpage
 ```
