@@ -29,7 +29,6 @@ THEN I find a concise, descriptive title
 ```
 ## Usage
 
-* Below is detail information on the changes made to refactor the webpage
 ![](assets/images/hw1sc1.png)
 
 ## The following image shows the web application's appearance and functionality:
