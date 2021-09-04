@@ -32,4 +32,4 @@ THEN I find a concise, descriptive title
 
 ## The following image shows the web application's appearance and functionality:
 
-![](hw1sc1.PNG)
+![screenshot of horiseon webpage](hw1sc1.PNG)
