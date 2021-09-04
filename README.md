@@ -28,7 +28,7 @@ THEN I find a concise, descriptive title
 
 ## Mock-Up
 
-![screenshot](hw1sc1.PNG)
+![](./hw1sc1.png)
 
 ## The following image shows the web application's appearance and functionality:
 
