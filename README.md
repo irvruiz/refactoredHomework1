@@ -32,4 +32,4 @@ THEN I find a concise, descriptive title
 
 ## The following image shows the web application's appearance and functionality:
 
-![screenshot of horiseon webpage](hw1sc1.PNG)
+![screenshot of horiseon webpage](https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg)
