@@ -26,8 +26,13 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-## Mock-Up
-![enter image description here](https://drive.google.com/file/d/1bfx-Gvfx3wC3lUp8kkSALYauhdXBe9bu/view?usp=sharing)
+### Usage
+
+* Below is detail information on the changes made to refactor the webpage
+```
+
+```
+![](assets/images/hw1sc1.png)
 
 ## The following image shows the web application's appearance and functionality:
 
