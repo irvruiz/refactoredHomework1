@@ -28,8 +28,8 @@ THEN I find a concise, descriptive title
 
 ## Mock-Up
 
-
+![screenshot](hw1sc1.PNG)
 
 ## The following image shows the web application's appearance and functionality:
 
-![screenshot](./hw1sc1.PNG?raw=true)
+
